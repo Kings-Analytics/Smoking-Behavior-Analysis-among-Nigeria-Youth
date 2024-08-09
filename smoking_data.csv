@@ -1,0 +1,211 @@
+Participant ID,Age,Gender,Location,Education Level,Employment Status,Smoking Status,Age at Initiation,Frequency of Smoking per day,Type of Tobacco Product,Perceived Health Status,Awareness of Health Risks,Reasons for Smoking,Intent to Quit,Previous Quit Attempts,Access to Cessation Support,Influence of Advertising,Cost of Smoking per month,Economic Status
+1,19,Male,Lagos,Secondary,Student,Current,16,5,Cigarettes,Good,Yes,Social influence,No,0,Yes,High,15,Low
+2,23,Female,Abuja,Tertiary,Employed,Former,18,0,E-cigarettes,Very Good,Yes,Stress relief,Yes,2,No,Low,20,Medium
+3,22,Male,Kano,Secondary,Unemployed,Current,17,10,Cigarettes,Fair,No,Addiction,No,3,Yes,Medium,30,Low
+4,18,Female,Port Harcourt,Secondary,Student,Never,0,0,None,Excellent,Yes,N/A,Yes,0,No,Low,0,Medium
+5,20,Male,Enugu,Tertiary,Student,Current,19,3,Shisha,Good,No,Social influence,Yes,1,No,High,25,Low
+6,21,Female,Lagos,Secondary,Unemployed,Current,14,7,Cigarettes,Poor,Yes,Addiction,No,4,No,High,10,Low
+7,24,Male,Abuja,Tertiary,Employed,Never,0,0,None,Excellent,No,N/A,No,0,Yes,Low,0,High
+8,17,Female,Kaduna,Secondary,Student,Former,15,1,Cigarettes,Fair,Yes,Peer pressure,No,1,Yes,Medium,5,Low
+9,22,Male,Lagos,Tertiary,Student,Current,18,4,Cigarettes,Good,No,Stress relief,Yes,0,No,Medium,12,Medium
+10,19,Female,Abuja,Secondary,Unemployed,Former,16,0,Shisha,Very Good,Yes,Social influence,Yes,1,Yes,High,15,Low
+11,23,Male,Kano,Tertiary,Employed,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,High
+12,18,Female,Port Harcourt,Primary,Student,Current,17,8,Cigarettes,Poor,Yes,Addiction,No,5,No,High,20,Low
+13,21,Male,Enugu,Secondary,Unemployed,Former,16,0,E-cigarettes,Good,Yes,Peer pressure,Yes,2,Yes,Medium,25,Medium
+14,16,Female,Lagos,Secondary,Student,Current,15,6,Shisha,Fair,No,Peer pressure,No,0,No,High,18,Low
+15,20,Male,Abuja,Tertiary,Student,Never,0,0,None,Excellent,Yes,N/A,Yes,0,Yes,Low,0,Medium
+16,19,Female,Kaduna,Primary,Unemployed,Current,14,9,Cigarettes,Poor,No,Stress relief,No,3,No,Medium,10,Low
+17,22,Male,Lagos,Tertiary,Employed,Former,18,0,E-cigarettes,Very Good,Yes,Addiction,Yes,2,Yes,Low,15,High
+18,17,Female,Port Harcourt,Secondary,Student,Former,16,1,Shisha,Fair,Yes,Social influence,No,1,No,High,8,Low
+19,24,Male,Enugu,Tertiary,Unemployed,Never,0,0,None,Excellent,No,N/A,Yes,0,No,Medium,0,Medium
+20,18,Female,Abuja,Secondary,Student,Current,16,3,Cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,High,15,Low
+21,25,Male,Kano,Tertiary,Employed,Current,20,5,Cigarettes,Fair,Yes,Stress relief,No,0,Yes,Medium,22,Low
+22,19,Female,Lagos,Secondary,Student,Former,16,0,Shisha,Good,Yes,Social influence,Yes,1,No,Low,0,Medium
+23,21,Male,Abuja,Primary,Unemployed,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,Low
+24,17,Female,Port Harcourt,Tertiary,Student,Current,15,10,Cigarettes,Poor,No,Addiction,No,2,No,High,30,Low
+25,24,Male,Enugu,Secondary,Employed,Former,18,0,E-cigarettes,Very Good,Yes,Peer pressure,Yes,3,Yes,Low,0,High
+26,20,Female,Kaduna,Primary,Unemployed,Current,19,3,Cigarettes,Fair,Yes,Stress relief,No,1,Yes,Medium,15,Low
+27,22,Male,Lagos,Tertiary,Student,Current,21,2,Shisha,Good,Yes,Social influence,Yes,0,No,High,18,Medium
+28,18,Female,Abuja,Secondary,Student,Former,17,0,E-cigarettes,Very Good,No,Social influence,Yes,2,No,Low,0,Medium
+29,23,Male,Kano,Primary,Employed,Never,0,0,None,Excellent,No,N/A,No,0,Yes,Low,0,High
+30,19,Female,Port Harcourt,Secondary,Unemployed,Current,14,7,Cigarettes,Poor,Yes,Addiction,No,4,No,Medium,20,Low
+31,21,Male,Enugu,Tertiary,Student,Former,20,0,Shisha,Good,Yes,Peer pressure,Yes,1,No,High,0,Medium
+32,20,Female,Lagos,Primary,Student,Current,16,5,E-cigarettes,Fair,No,Stress relief,No,0,Yes,High,25,Low
+33,24,Male,Abuja,Secondary,Unemployed,Former,17,0,Cigarettes,Very Good,Yes,Social influence,Yes,3,No,Low,0,High
+34,17,Female,Kaduna,Tertiary,Student,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,Low
+35,22,Male,Port Harcourt,Primary,Employed,Current,18,8,Shisha,Fair,Yes,Addiction,No,2,No,Medium,28,Low
+36,19,Female,Enugu,Secondary,Unemployed,Former,15,0,Cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,Medium,0,Low
+37,23,Male,Lagos,Tertiary,Student,Never,0,0,None,Excellent,No,N/A,No,0,No,Low,0,Medium
+38,18,Female,Abuja,Primary,Student,Current,17,6,E-cigarettes,Poor,Yes,Stress relief,No,3,No,High,23,Low
+39,24,Male,Kano,Secondary,Unemployed,Former,16,0,Shisha,Very Good,Yes,Social influence,Yes,2,Yes,Low,0,High
+40,20,Female,Port Harcourt,Tertiary,Student,Current,14,4,Cigarettes,Fair,No,Addiction,No,0,No,Medium,18,Low
+41,21,Male,Enugu,Secondary,Employed,Former,17,0,Cigarettes,Good,Yes,Social influence,Yes,2,Yes,Medium,0,Medium
+42,18,Female,Kaduna,Tertiary,Unemployed,Current,16,6,Shisha,Fair,Yes,Stress relief,No,1,No,High,21,Low
+43,23,Male,Lagos,Tertiary,Student,Former,20,0,E-cigarettes,Very Good,No,Stress relief,Yes,2,No,Low,0,Medium
+44,19,Female,Abuja,Primary,Student,Current,17,5,Cigarettes,Fair,No,Peer pressure,Yes,0,No,High,23,Low
+45,24,Male,Kano,Secondary,Employed,Former,19,0,Shisha,Excellent,Yes,Addiction,No,4,Yes,Low,0,Medium
+46,20,Female,Port Harcourt,Tertiary,Unemployed,Current,16,3,E-cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,Medium,15,Low
+47,22,Male,Enugu,Primary,Student,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,High
+48,18,Female,Kaduna,Secondary,Employed,Current,16,8,Cigarettes,Poor,Yes,Stress relief,No,3,No,High,30,Low
+49,23,Male,Lagos,Tertiary,Student,Former,20,0,Shisha,Very Good,Yes,Social influence,Yes,2,Yes,Medium,0,High
+50,19,Female,Abuja,Primary,Unemployed,Current,17,4,E-cigarettes,Fair,Yes,Addiction,No,0,Yes,High,20,Low
+51,24,Male,Kano,Secondary,Student,Current,19,6,Cigarettes,Fair,Yes,Stress relief,No,1,No,Medium,25,Low
+52,20,Female,Port Harcourt,Tertiary,Employed,Former,17,0,E-cigarettes,Good,No,Social influence,Yes,2,Yes,Low,0,High
+53,22,Male,Lagos,Tertiary,Student,Current,21,1,Shisha,Good,Yes,Addiction,Yes,3,Yes,Medium,12,Medium
+54,18,Female,Kaduna,Primary,Unemployed,Never,0,0,None,Excellent,Yes,N/A,Yes,0,Yes,Low,0,High
+55,23,Male,Enugu,Secondary,Employed,Current,18,7,Cigarettes,Poor,No,Stress relief,Yes,2,Yes,High,28,Low
+56,20,Female,Abuja,Tertiary,Student,Former,16,0,Shisha,Very Good,No,Social influence,Yes,1,Yes,Low,0,High
+57,24,Male,Kano,Primary,Student,Former,17,0,E-cigarettes,Excellent,No,Stress relief,Yes,0,No,Low,0,Medium
+58,19,Female,Port Harcourt,Secondary,Unemployed,Current,15,2,Cigarettes,Fair,Yes,Addiction,Yes,4,Yes,Medium,10,Low
+59,22,Male,Lagos,Tertiary,Employed,Never,0,0,None,Excellent,No,N/A,No,0,Yes,Low,0,High
+60,18,Female,Kaduna,Secondary,Student,Current,17,9,Shisha,Fair,No,Social influence,Yes,1,No,High,25,Low
+61,23,Male,Enugu,Tertiary,Unemployed,Former,18,0,Cigarettes,Very Good,Yes,Peer pressure,Yes,2,Yes,Low,0,High
+62,20,Female,Abuja,Primary,Student,Former,17,0,E-cigarettes,Good,Yes,Addiction,Yes,3,No,Low,0,High
+63,24,Male,Kano,Secondary,Employed,Current,19,4,Shisha,Poor,No,Stress relief,Yes,0,No,Medium,18,Low
+64,19,Female,Port Harcourt,Tertiary,Student,Former,16,0,Cigarettes,Fair,Yes,Stress relief,No,1,Yes,Medium,0,Low
+65,22,Male,Lagos,Primary,Unemployed,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,High
+66,18,Female,Kaduna,Secondary,Employed,Current,16,7,Shisha,Good,Yes,Peer pressure,No,2,No,High,28,Low
+67,23,Male,Enugu,Secondary,Student,Never,0,0,None,Excellent,No,N/A,No,0,No,Low,0,Medium
+68,20,Female,Abuja,Tertiary,Unemployed,Current,16,5,E-cigarettes,Fair,No,Stress relief,Yes,1,Yes,Medium,23,Low
+69,24,Male,Kano,Primary,Student,Current,17,3,Cigarettes,Good,Yes,Addiction,No,4,Yes,High,20,Low
+70,19,Female,Port Harcourt,Secondary,Employed,Former,16,0,Shisha,Very Good,Yes,Social influence,Yes,0,No,Low,0,High
+71,22,Male,Lagos,Primary,Student,Former,17,0,E-cigarettes,Excellent,Yes,Stress relief,Yes,3,Yes,Low,0,Medium
+72,18,Female,Kaduna,Secondary,Unemployed,Current,15,8,Cigarettes,Poor,Yes,Addiction,No,1,No,High,30,Low
+73,23,Male,Enugu,Tertiary,Student,Former,18,0,Shisha,Fair,Yes,Social influence,Yes,2,Yes,Medium,0,High
+74,20,Female,Abuja,Primary,Employed,Current,16,4,E-cigarettes,Good,Yes,Peer pressure,Yes,0,No,High,18,Low
+75,24,Male,Kano,Secondary,Student,Former,19,5,Cigarettes,Fair,Yes,Stress relief,No,1,No,Medium,25,Low
+76,19,Female,Port Harcourt,Primary,Unemployed,Current,16,1,Shisha,Very Good,No,Stress relief,Yes,4,Yes,Low,10,Low
+77,22,Male,Lagos,Secondary,Employed,Never,0,0,None,Excellent,Yes,N/A,No,,,,,
+78,17,Female,Kaduna,Primary,Unemployed,Current,16,7,Cigarettes,Fair,Yes,Social influence,Yes,0,Yes,Medium,25,Low
+79,23,Male,Enugu,Secondary,Student,Former,18,0,Shisha,Fair,Yes,Addiction,No,3,Yes,Low,0,Medium
+80,20,Female,Abuja,Tertiary,Employed,Current,16,4,E-cigarettes,Poor,Yes,Stress relief,Yes,1,No,High,20,Low
+81,24,Male,Kano,Primary,Unemployed,Former,17,0,Cigarettes,Good,Yes,Addiction,Yes,2,No,Low,0,High
+82,19,Female,Port Harcourt,Secondary,Student,Never,0,0,None,Excellent,Yes,N/A,No,0,Yes,Low,0,High
+83,22,Male,Lagos,Primary,Employed,Current,17,3,Shisha,Very Good,No,Stress relief,Yes,1,No,High,15,Low
+84,18,Female,Kaduna,Tertiary,Student,Former,16,0,E-cigarettes,Good,Yes,Social influence,Yes,4,Yes,Low,0,High
+85,23,Male,Enugu,Secondary,Unemployed,Current,19,5,Cigarettes,Fair,Yes,Addiction,No,2,No,Medium,25,Low
+86,20,Female,Abuja,Tertiary,Student,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,High
+87,24,Male,Kano,Primary,Employed,Former,17,0,Shisha,Very Good,Yes,Stress relief,Yes,3,No,Medium,0,High
+88,19,Female,Port Harcourt,Secondary,Student,Former,16,0,E-cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,Low,0,Medium
+89,22,Male,Lagos,Primary,Unemployed,Current,17,8,Cigarettes,Poor,Yes,Stress relief,Yes,2,Yes,High,30,Low
+90,18,Female,Kaduna,Secondary,Employed,Current,16,1,Shisha,Fair,Yes,Social influence,No,0,Yes,High,8,Low
+91,23,Male,Enugu,Tertiary,Student,Never,0,0,None,Excellent,Yes,N/A,Yes,0,No,Low,0,High
+92,20,Female,Abuja,Primary,Unemployed,Current,16,6,E-cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,Medium,28,Low
+93,24,Male,Kano,Secondary,Student,Former,19,0,Cigarettes,Fair,Yes,Addiction,Yes,2,Yes,Low,0,High
+94,19,Female,Port Harcourt,Tertiary,Employed,Current,15,2,Shisha,Poor,No,Stress relief,No,1,Yes,Medium,10,Low
+95,22,Male,Lagos,Primary,Student,Current,17,9,Cigarettes,Fair,Yes,Peer pressure,No,3,Yes,Medium,30,Low
+96,18,Female,Kaduna,Secondary,Unemployed,Former,16,0,E-cigarettes,Good,Yes,Stress relief,No,4,Yes,High,25,Low
+97,23,Male,Enugu,Tertiary,Employed,Current,20,4,Shisha,Very Good,Yes,Addiction,Yes,1,Yes,Low,18,High
+98,20,Female,Abuja,Primary,Student,Former,17,0,Cigarettes,Fair,Yes,Stress relief,Yes,0,Yes,Medium,0,Low
+99,24,Male,Kano,Secondary,Unemployed,Current,18,0,E-cigarettes,Good,Yes,Social influence,No,0,No,Low,0,High
+100,19,Female,Port Harcourt,Tertiary,Student,Former,16,0,Shisha,Excellent,No,Social influence,Yes,1,Yes,Low,0,Medium
+101,22,Male,Lagos,Primary,Employed,Never,0,0,None,Excellent,Yes,N/A,No,0,Yes,Low,0,High
+102,18,Female,Kaduna,Secondary,Student,Current,15,5,Cigarettes,Poor,Yes,Addiction,No,2,No,High,25,Low
+103,23,Male,Enugu,Secondary,Unemployed,Former,18,0,Shisha,Good,Yes,Social influence,Yes,3,Yes,Medium,0,High
+104,20,Female,Abuja,Tertiary,Student,Former,16,0,E-cigarettes,Fair,Yes,Peer pressure,No,1,Yes,Medium,0,High
+105,24,Male,Kano,Primary,Employed,Current,17,3,Cigarettes,Very Good,No,Addiction,Yes,2,No,High,20,Low
+106,19,Female,Port Harcourt,Secondary,Unemployed,Former,16,0,Shisha,Good,Yes,Peer pressure,No,0,No,High,0,Low
+107,22,Male,Lagos,Primary,Student,Current,17,7,E-cigarettes,Fair,Yes,Social influence,Yes,4,Yes,Medium,20,Low
+108,18,Female,Kaduna,Tertiary,Employed,Former,16,0,Cigarettes,Very Good,No,Stress relief,Yes,1,Yes,Low,0,High
+109,23,Male,Enugu,Secondary,Unemployed,Current,19,6,Shisha,Poor,Yes,Peer pressure,Yes,0,No,Low,25,Medium
+110,20,Female,Abuja,Primary,Student,Current,16,0,E-cigarettes,Excellent,Yes,Addiction,Yes,3,Yes,Low,0,Medium
+111,24,Male,Kano,Secondary,Employed,Never,0,0,None,Excellent,Yes,N/A,Yes,0,Yes,Low,0,High
+112,19,Female,Port Harcourt,Tertiary,Unemployed,Former,16,0,Cigarettes,Fair,Yes,Addiction,Yes,2,No,Medium,0,Low
+113,22,Male,Lagos,Primary,Student,Former,17,0,Shisha,Good,Yes,Peer pressure,No,3,Yes,High,0,Medium
+114,18,Female,Kaduna,Secondary,Unemployed,Current,16,8,Cigarettes,Poor,Yes,Stress relief,No,1,No,High,30,Low
+115,23,Male,Enugu,Secondary,Student,Former,18,0,Shisha,Fair,Yes,Addiction,No,3,Yes,Low,0,Medium
+116,20,Female,Abuja,Tertiary,Employed,Current,16,4,E-cigarettes,Poor,Yes,Stress relief,Yes,1,No,High,20,Low
+117,24,Male,Kano,Primary,Unemployed,Former,17,0,Cigarettes,Good,Yes,Addiction,Yes,2,No,Low,0,High
+118,19,Female,Port Harcourt,Secondary,Student,Never,0,0,None,Excellent,Yes,N/A,No,0,Yes,Low,0,High
+119,22,Male,Lagos,Primary,Employed,Current,17,3,Shisha,Very Good,No,Stress relief,Yes,1,No,High,15,Low
+120,18,Female,Kaduna,Tertiary,Student,Former,16,0,E-cigarettes,Good,Yes,Social influence,Yes,4,Yes,Low,0,High
+121,23,Male,Enugu,Secondary,Unemployed,Current,19,5,Cigarettes,Fair,Yes,Addiction,No,2,No,Medium,25,Low
+122,20,Female,Abuja,Tertiary,Student,Never,0,0,None,Excellent,No,N/A,Yes,0,Yes,Low,0,High
+123,24,Male,Kano,Primary,Employed,Former,17,0,Shisha,Very Good,Yes,Stress relief,Yes,3,No,Medium,0,High
+124,19,Female,Port Harcourt,Secondary,Student,Former,16,0,E-cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,Low,0,Medium
+125,22,Male,Lagos,Primary,Unemployed,Current,17,8,Cigarettes,Poor,Yes,Stress relief,Yes,2,Yes,High,30,Low
+126,18,Female,Kaduna,Secondary,Employed,Current,16,1,Shisha,Fair,Yes,Social influence,No,0,Yes,High,8,Low
+127,23,Male,Enugu,Tertiary,Student,Never,0,0,None,Excellent,Yes,N/A,Yes,0,No,Low,0,High
+128,20,Female,Abuja,Primary,Unemployed,Current,16,6,E-cigarettes,Good,Yes,Peer pressure,Yes,1,Yes,Medium,28,Low
+129,24,Male,Kano,Secondary,Student,Former,19,0,Cigarettes,Fair,Yes,Addiction,Yes,2,Yes,Low,0,High
+130,19,Female,Port Harcourt,Tertiary,Employed,Current,15,2,Shisha,Poor,No,Stress relief,No,1,Yes,Medium,10,Low
+131,22,Male,Lagos,Primary,Student,Current,17,9,Cigarettes,Fair,Yes,Peer pressure,No,3,Yes,Medium,30,Low
+132,18,Female,Kaduna,Secondary,Unemployed,Former,16,0,E-cigarettes,Good,Yes,Stress relief,No,4,Yes,High,25,Low
+133,23,Male,Enugu,Tertiary,Employed,Current,20,4,Shisha,Very Good,Yes,Addiction,Yes,1,Yes,Low,18,High
+134,20,Female,Abuja,Primary,Student,Former,17,0,Cigarettes,Fair,Yes,Stress relief,Yes,0,Yes,Medium,0,Low
+135,24,Male,Kano,Secondary,Unemployed,Current,18,0,E-cigarettes,Good,Yes,Social influence,No,0,No,Low,0,High
+136,19,Female,Port Harcourt,Tertiary,Student,Former,16,0,Shisha,Excellent,No,Social influence,Yes,1,Yes,Low,0,Medium
+137,22,Male,Lagos,Primary,Employed,Never,0,0,None,Excellent,Yes,N/A,No,0,Yes,Low,0,High
+138,18,Female,Kaduna,Secondary,Student,Current,15,5,Cigarettes,Poor,Yes,Addiction,No,2,No,High,25,Low
+139,23,Male,Enugu,Secondary,Unemployed,Former,18,0,Shisha,Good,Yes,Social influence,Yes,3,Yes,Medium,0,High
+140,20,Female,Abuja,Tertiary,Student,Former,16,0,E-cigarettes,Fair,Yes,Peer pressure,No,1,Yes,Medium,0,High
+141,24,Male,Kano,Primary,Employed,Current,17,3,Cigarettes,Very Good,No,Addiction,Yes,2,No,High,20,Low
+142,19,Female,Port Harcourt,Secondary,Unemployed,Former,16,0,Shisha,Good,Yes,Peer pressure,No,0,No,High,0,Low
+143,22,Male,Lagos,Primary,Student,Current,17,7,E-cigarettes,Fair,Yes,Social influence,Yes,4,Yes,Medium,20,Low
+144,18,Female,Kaduna,Tertiary,Employed,Former,16,0,Cigarettes,Very Good,No,Stress relief,Yes,1,Yes,Low,0,High
+145,23,Male,Enugu,Secondary,Unemployed,Current,19,6,Shisha,Poor,Yes,Peer pressure,Yes,0,No,Low,25,Medium
+146,20,Female,Abuja,Primary,Student,Current,16,0,E-cigarettes,Excellent,Yes,Addiction,Yes,3,Yes,Low,0,Medium
+147,24,Male,Kano,Secondary,Employed,Never,0,0,None,Excellent,Yes,N/A,Yes,0,Yes,Low,0,High
+148,19,Female,Port Harcourt,Tertiary,Unemployed,Former,16,0,Cigarettes,Fair,Yes,Addiction,Yes,2,No,Medium,0,Low
+149,22,Male,Lagos,Primary,Student,Former,17,0,Shisha,Good,Yes,Peer pressure,No,3,Yes,High,0,Medium
+150,18,Female,Kaduna,Secondary,Unemployed,Current,15,8,Cigarettes,Poor,Yes,Addiction,No,1,No,High,30,Low
+151,23,Male,Enugu,Secondary,Employed,Current,18,5,Shisha,Good,Yes,Stress relief,Yes,2,Yes,High,25,Medium
+152,20,Female,Abuja,Tertiary,Student,Current,16,0,E-cigarettes,Good,Yes,Addiction,Yes,1,No,Medium,0,High
+153,24,Male,Kano,Primary,Unemployed,Former,17,0,Cigarettes,Fair,Yes,Addiction,No,0,No,Medium,0,High
+154,19,Female,Port Harcourt,Secondary,Student,Former,16,0,Shisha,Fair,Yes,Peer pressure,Yes,1,No,Low,0,High
+155,22,Male,Lagos,Primary,Employed,Current,17,4,E-cigarettes,Fair,Yes,Stress relief,Yes,3,Yes,High,20,Low
+156,18,Female,Kaduna,Secondary,Unemployed,Current,16,2,Cigarettes,Poor,Yes,Addiction,No,2,Yes,High,30,Low
+157,23,Male,Enugu,Tertiary,Student,Former,18,0,Shisha,Good,Yes,Social influence,Yes,4,Yes,Medium,0,High
+158,20,Female,Abuja,Primary,Unemployed,Former,17,0,E-cigarettes,Excellent,Yes,Addiction,Yes,2,Yes,Low,0,Medium
+159,24,Male,Kano,Secondary,Student,Current,19,7,Cigarettes,Poor,Yes,Stress relief,No,3,Yes,Medium,25,Low
+160,19,Female,Port Harcourt,Tertiary,Employed,Current,15,0,Shisha,Very Good,Yes,Social influence,Yes,0,Yes,Low,0,High
+161,22,Male,Lagos,Primary,Student,Never,0,0,None,Excellent,Yes,N/A,No,0,No,Low,0,High
+162,18,Female,Kaduna,Secondary,Student,Current,15,3,Cigarettes,Poor,Yes,Addiction,No,1,Yes,High,25,Low
+163,23,Male,Enugu,Secondary,Employed,Current,18,0,Shisha,Fair,Yes,Peer pressure,Yes,0,No,Low,0,Medium
+164,20,Female,Abuja,Tertiary,Student,Former,16,0,E-cigarettes,Excellent,Yes,Social influence,Yes,1,Yes,Low,0,Medium
+165,24,Male,Kano,Primary,Unemployed,Former,17,0,Cigarettes,Very Good,Yes,Addiction,Yes,2,Yes,Low,0,High
+166,19,Female,Port Harcourt,Secondary,Student,Former,16,0,Shisha,Fair,Yes,Stress relief,Yes,3,Yes,Medium,0,High
+167,22,Male,Lagos,Primary,Employed,Current,17,5,E-cigarettes,Poor,Yes,Addiction,Yes,4,Yes,High,30,Low
+168,18,Female,Kaduna,Tertiary,Unemployed,Current,16,0,Cigarettes,Good,Yes,Stress relief,Yes,0,Yes,Medium,0,High
+169,23,Male,Enugu,Secondary,Student,Current,18,0,Shisha,Fair,Yes,Addiction,Yes,2,Yes,Medium,0,High
+170,20,Female,Abuja,Tertiary,Employed,Current,16,0,E-cigarettes,Very Good,Yes,Peer pressure,Yes,1,Yes,Medium,0,High
+171,24,Male,Kano,Primary,Unemployed,Current,17,0,Cigarettes,Fair,Yes,Social influence,Yes,3,No,Medium,0,High
+172,19,Female,Port Harcourt,Secondary,Student,Former,16,0,Shisha,Good,Yes,Stress relief,No,0,Yes,Low,0,High
+173,22,Male,Lagos,Primary,Employed,Never,0,0,None,Excellent,Yes,N/A,Yes,0,Yes,Low,0,High
+174,18,Female,Kaduna,Secondary,Student,Former,16,0,Cigarettes,Excellent,Yes,Peer pressure,Yes,1,Yes,Low,0,Medium
+175,23,Male,Enugu,Tertiary,Unemployed,Former,18,0,Shisha,Very Good,Yes,Addiction,No,2,Yes,Low,0,High
+176,20,Female,Abuja,Primary,Student,Current,16,6,E-cigarettes,Poor,Yes,Stress relief,Yes,3,Yes,High,28,Low
+177,24,Male,Kano,Secondary,Employed,Former,17,0,Cigarettes,Fair,Yes,Addiction,No,1,No,Low,0,High
+178,19,Female,Port Harcourt,Tertiary,Student,Current,15,0,Shisha,Fair,Yes,Peer pressure,Yes,0,Yes,Low,0,High
+179,22,Male,Lagos,Primary,Unemployed,Current,17,8,E-cigarettes,Good,Yes,Addiction,Yes,2,Yes,High,30,Low
+180,18,Female,Kaduna,Secondary,Student,Former,16,0,Cigarettes,Fair,Yes,Stress relief,No,3,Yes,Medium,0,High
+181,23,Male,Enugu,Secondary,Employed,Current,18,5,Shisha,Good,Yes,Stress relief,Yes,2,Yes,High,25,Medium
+182,20,Female,Abuja,Tertiary,Student,Current,16,0,E-cigarettes,Good,Yes,Addiction,Yes,1,No,Medium,0,High
+183,24,Male,Kano,Primary,Unemployed,Former,17,0,Cigarettes,Fair,Yes,Addiction,No,0,No,Medium,0,High
+184,19,Female,Port Harcourt,Secondary,Student,Former,16,0,Shisha,Fair,Yes,Peer pressure,Yes,1,No,Low,0,High
+185,22,Male,Lagos,Primary,Employed,Current,17,4,E-cigarettes,Fair,Yes,Stress relief,Yes,3,Yes,High,20,Low
+186,18,Female,Kaduna,Secondary,Unemployed,Current,16,2,Cigarettes,Poor,Yes,Addiction,No,2,Yes,High,30,Low
+187,23,Male,Enugu,Tertiary,Student,Former,18,0,Shisha,Good,Yes,Social influence,Yes,4,Yes,Medium,0,High
+188,20,Female,Abuja,Primary,Unemployed,Former,17,0,E-cigarettes,Excellent,Yes,Addiction,Yes,2,Yes,Low,0,Medium
+189,24,Male,Kano,Secondary,Student,Current,19,7,Cigarettes,Poor,Yes,Stress relief,No,3,Yes,Medium,25,Low
+190,19,Female,Port Harcourt,Tertiary,Employed,Current,15,0,Shisha,Very Good,Yes,Social influence,Yes,0,Yes,Low,0,High
+191,22,Male,Lagos,Primary,Student,Never,0,0,None,Excellent,Yes,N/A,No,0,No,Low,0,High
+192,18,Female,Kaduna,Secondary,Student,Current,15,3,Cigarettes,Poor,Yes,Addiction,No,1,Yes,High,25,Low
+193,23,Male,Enugu,Secondary,Employed,Current,18,0,Shisha,Fair,Yes,Peer pressure,Yes,0,No,Low,0,Medium
+194,20,Female,Abuja,Tertiary,Student,Former,16,0,E-cigarettes,Excellent,Yes,Social influence,Yes,1,Yes,Low,0,Medium
+195,24,Male,Kano,Primary,Unemployed,Former,17,0,Cigarettes,Very Good,Yes,Addiction,Yes,2,Yes,Low,0,High
+196,19,Female,Port Harcourt,Secondary,Student,Former,16,0,Shisha,Fair,Yes,Stress relief,Yes,3,Yes,Medium,0,High
+197,22,Male,Lagos,Primary,Employed,Current,17,5,E-cigarettes,Poor,Yes,Addiction,Yes,4,Yes,High,30,Low
+198,18,Female,Kaduna,Tertiary,Unemployed,Current,16,0,Cigarettes,Good,Yes,Stress relief,Yes,0,Yes,Medium,0,High
+199,23,Male,Enugu,Secondary,Student,Current,18,0,Shisha,Fair,Yes,Addiction,Yes,2,Yes,Medium,0,High
+200,20,Female,Abuja,Tertiary,Employed,Current,16,0,E-cigarettes,Very Good,Yes,Peer pressure,Yes,1,Yes,Medium,0,High
+201,24,Male,Kano,Primary,Unemployed,Current,17,0,Cigarettes,Fair,Yes,Social influence,Yes,3,No,Medium,0,High
+202,19,Female,Port Harcourt,Secondary,Student,Former,16,0,Shisha,Good,Yes,Stress relief,No,0,Yes,Low,0,High
+203,22,Male,Lagos,Primary,Employed,Never,0,0,None,Excellent,Yes,N/A,Yes,0,Yes,Low,0,High
+204,18,Female,Kaduna,Secondary,Student,Former,16,0,Cigarettes,Excellent,Yes,Peer pressure,Yes,1,Yes,Low,0,Medium
+205,23,Male,Enugu,Tertiary,Unemployed,Former,18,0,Shisha,Very Good,Yes,Addiction,No,2,Yes,Low,0,High
+206,20,Female,Abuja,Primary,Student,Current,16,6,E-cigarettes,Poor,Yes,Stress relief,Yes,3,Yes,High,28,Low
+207,24,Male,Kano,Secondary,Employed,Former,17,0,Cigarettes,Fair,Yes,Addiction,No,1,No,Low,0,High
+208,19,Female,Port Harcourt,Tertiary,Student,Current,15,0,Shisha,Fair,Yes,Peer pressure,Yes,0,Yes,Low,0,High
+209,22,Male,Lagos,Primary,Unemployed,Current,17,8,E-cigarettes,Good,Yes,Addiction,Yes,2,Yes,High,30,Low
+210,18,Female,Kaduna,Secondary,Student,Former,16,0,Cigarettes,Fair,Yes,Stress relief,No,3,Yes,Medium,0,High
